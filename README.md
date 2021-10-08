@@ -2,7 +2,8 @@
 - 👀 I’m interested in Open Source Contribution :(.. ofc thats why i m here ;)
 - 🌱 I m acquianted with  C,C++,HTML,CSS,Python and yes recently i have learnt git and github..nd i m loving it
 - I am a first year btech student of computer science and engineering at Kiit Bhubaneshwar.
-- You can find me here: https://www.linkedin.com/in/sayan-chattopadhyay-a32937212/  "Sayan Chattopadhyay"
+- You can find me here: https://www.linkedin.com/in/sayan-chattopadhyay-a32937212/  
+-
 - 
 
 <!---
